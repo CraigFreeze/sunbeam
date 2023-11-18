@@ -1,0 +1,68 @@
+{
+    "businesses": [
+        {
+            "name": "The Garden of Reno",
+            "address": "700 S Wells Ave Reno, NV 89502",
+            "phone": "(775) 440-1019",
+            "website": "https://thegardenofreno.com",
+            "imageFile": "images/directory/1business.webp",
+            "membershipLevel": "Bronze",
+            "joinDate": "01/05/2001"
+        },
+        {
+            "name": "Grassroots Books",
+            "address": "660 E Grove St Reno, NV 89502",
+            "phone": "(775) 828-2665",
+            "website": "https://grassrootsbooks.com",
+            "imageFile": "images/directory/2business.webp",
+            "membershipLevel": "Bronze",
+            "joinDate": "03/06/2011"
+        },
+        {
+            "name": "Sundance Books and Music",
+            "address": "121 California Ave Reno, NV 89509",
+            "phone": "(775) 786-1188",
+            "website": "https://www.sundancebookstore.com",
+            "imageFile": "images/directory/5business.webp",
+            "membershipLevel": "Silver",
+            "joinDate": "02/25/2019"
+        },
+        {
+            "name": "Sierra Water Plant Shop",
+            "address": "2055 Dickerson Rd Reno, NV 89503",
+            "phone": "(775) 345-5806",
+            "website": "https://www.sierrawatergardens.com",
+            "imageFile": "images/directory/4business.webp",
+            "membershipLevel": "Bronze",
+            "joinDate": "09/05/2015"
+        },
+        {
+
+            "name": "The Lark",
+            "address": "538 W Plumb Ln Ste C Reno, NV 89509",
+            "phone": "(775) 232-2039",
+            "website": "https://www.larksuite.com/en_us",
+            "imageFile": "images/directory/3business.webp",
+            "membershipLevel": "Bronze",
+            "joinDate": "04/06/2009"
+        },
+        {
+            "name": "Frankie's Fruit Bar",
+            "address": "205 E Moana Ln Reno, NV 89502",
+            "phone": "(775) 453-9932",
+            "website": "https://frankies-fruit-bar.myshopify.com",
+            "imageFile": "images/directory/6business.webp",
+            "membershipLevel": "Bronze",
+            "joinDate": "01/30/2020"
+        },
+        {
+            "name": "Urban Scout",
+            "address": "3462 Lakeside Dr Reno, NV 89509",
+            "phone": "(775) 683-9090",
+            "website": "https://www.urbanscout.us",
+            "imageFile": "images/directory/7business.webp",
+            "membershipLevel": "Gold",
+            "joinDate": "07/04/2012"
+        }
+    ]
+}

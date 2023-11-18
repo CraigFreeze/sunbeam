@@ -1,0 +1,15 @@
+@media screen and (min-width: 1000px) {
+    .hero,
+    .contact-box {
+        grid-column: span 3;
+    }
+
+    main {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        max-width: 1000px;
+    }
+
+    .grid > section {
+        min-width: unset;
+    }
+}
